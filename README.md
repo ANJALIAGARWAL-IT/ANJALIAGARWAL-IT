@@ -38,7 +38,7 @@
    <H5> Find me around the web 🌎:
 
 - Sharing updates on <a href="https://in.linkedin.com/in/anjaliagarwal98/">LinkedIn</a> 💼 
-- My website <a href="https://anjaliagarwal-it.github.io/">Portfolio</a> ✍🏾</H5>
-- More about me on <a href="https://www.instagram.com/_anjii._">Instagram</a> 🏓   
+- My website <a href="https://anjaliagarwal-it.github.io/">Portfolio</a> ✍🏾
+- More about me on <a href="https://www.instagram.com/_anjii._">Instagram</a> 🏓 </H5>  
 
   </p>
