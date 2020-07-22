@@ -2,7 +2,7 @@
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
- <img src="https://github.com/ANJALIAGARWAL-IT/ANJALIAGARWAL-IT/blob/master/hi.jpg" alt="Face" width="200" height="200" style="float:left">
+ <img src="https://github.com/ANJALIAGARWAL-IT/ANJALIAGARWAL-IT/blob/master/typing.gif" alt="Face" width="200" height="200" style="float:left">
   <br>
   <b> Hi it's Anjali here 👋</b>
   <br/><br/>I am Anjali Agarwal. I am a self motivated and hard working girl who has a keen interest in Machine Learning, Deep Learning , Computer Vision, NLP and Recommendation System and use the same to bring out insights from raw data. I am a quick learner and I love to network and meet new people. I have a passion for Coding and Mathematics. I am a Scholarship Student and I am a bit competitive. 
