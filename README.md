@@ -38,7 +38,7 @@
    <H5> Find me around the web 🌎:
 
 - Sharing updates on <a href="https://in.linkedin.com/in/anjaliagarwal98/">LinkedIn</a> 💼 
-- MI write blogs on <a href="https://medium.com/@aagarwal691">Medium</a> ✍🏾
+- I write blogs on <a href="https://medium.com/@aagarwal691">Medium</a> ✍🏾
 - More about me on <a href="https://www.instagram.com/_anjii._">Instagram</a> 🏓 </H5>  
 
   </p>
