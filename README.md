@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact: I am good in both Studies as well as co-circular activities like Dance, Sports, Crafts..
 
-- 😄 My Portfolio Profile : anjaliagarwal-it.github.io
+- 😄 My Portfolio Profile : anjaliagarwal.tech
 </details>
 
 <hr>
