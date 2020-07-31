@@ -8,7 +8,9 @@
   <br/><br/>I am Anjali Agarwal. I am a self motivated and hard working girl who has a keen interest in Machine Learning, Deep Learning , Computer Vision, NLP and Recommendation System and use the same to bring out insights from raw data. I am a quick learner and I love to network and meet new people. I have a passion for Coding and Mathematics. I am a Scholarship Student and I am a bit competitive. 
 </p>
 <br>
-![Anjali's github stats](https://github-readme-stats.vercel.app/api?username=ANJALIAGARWAL-IT&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=ANJALIAGARWAL-IT&show_icons=true&hide_border=true)
+
 <br>
 <details>
   <summary><i>Some interesting facts about me!</i></summary>
